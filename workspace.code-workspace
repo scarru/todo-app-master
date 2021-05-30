@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\CursoGit\\demo-01"
+		},
+		{
+			"path": "..\\..\\CursoGit\\demo-02"
+		},
+		{
+			"path": "..\\..\\CursoGit\\demo-03"
+		},
+		{
+			"path": "..\\..\\CursoGit\\demo-04"
+		},
+		{
+			"path": "..\\..\\Santander CIB\\grace-front"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
